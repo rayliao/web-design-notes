@@ -399,6 +399,11 @@ markdown 编辑器实现可关注 [simditor打包版](https://github.com/nimojs/
 3. 前端审核
 4. 后端审核
 
+## 分享
+
+- [awesome-degign](https://github.com/gztchan/awesome-design)
+- [dragonball](https://github.com/rayliao/dragonball)
+
 ---
 
 这里的每一节都是此文档维护者在团队中采坑一步步发现总结的经验，每次拿到设计稿按照此文档过一遍会减少很多无意义的返工。
